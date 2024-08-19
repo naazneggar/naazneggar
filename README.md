@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **python,Numpy,seaborn and matplotlib**
 
-- 🤝 I’m looking for help with **Netflix movie data analysis**
+- 🤝 I’m looking for help with **Data related projects**
 
 - 📝 I regularly write articles on [https://medium.com/@newseefgenesis/merge-function-in-python-acdbc946b752](https://medium.com/@newseefgenesis/merge-function-in-python-acdbc946b752)
 
